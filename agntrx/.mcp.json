@@ -2,7 +2,7 @@
   "mcpServers": {
     "agntrx": {
       "type": "http",
-      "url": "https://agent-os-accounts.banasiak-steven.workers.dev/mcp"
+      "url": "https://app.thescalableagent.com/mcp"
     }
   }
 }

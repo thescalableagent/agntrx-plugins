@@ -7,8 +7,8 @@ description: The setup interview that builds a real estate agent's business hub,
 
 When the agent asks to check their hub, their setup, or their files, start with agntrx_status. Before anything else, and whether or not a hub folder is connected, show these two lines exactly:
 "AGNTRX is on for your account."
-"Plugin 1.0.0. Home base [the home base number from its answer]."
-The plugin number and the home base number are counted separately and never match; a different number is not a problem. Only if its answer names a newest plugin above 1.0.0, add: "Your AGNTRX plugin needs a quick update. Your office has the new file." Then ask AGNTRX for this helper's instructions as below.
+"Plugin 1.0.1. Home base [the home base number from its answer]."
+The plugin number and the home base number are counted separately and never match; a different number is not a problem. Only if its answer names a newest plugin above 1.0.1, add: "Your AGNTRX plugin needs a quick update. Your office has the new file." Then ask AGNTRX for this helper's instructions as below.
 
 This helper's instructions live on the AGNTRX home base, not in this file.
 
