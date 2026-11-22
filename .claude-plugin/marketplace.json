@@ -1,0 +1,13 @@
+{
+  "name": "agntrx-plugins",
+  "owner": {
+    "name": "The Scalable Agent"
+  },
+  "plugins": [
+    {
+      "name": "agntrx",
+      "source": "./agntrx",
+      "description": "AGNTRX by The Scalable Agent."
+    }
+  ]
+}

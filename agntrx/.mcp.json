@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agntrx": {
+      "type": "http",
+      "url": "https://agent-os-accounts.banasiak-steven.workers.dev/mcp"
+    }
+  }
+}
